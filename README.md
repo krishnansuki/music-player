@@ -3,7 +3,13 @@
 
 
 *create a folder name called 'song' and place the songs in that folder
+
+
+
 *set the path of the song folder in mu.py program
+
+
+
 *Run mu.py program
 
 
