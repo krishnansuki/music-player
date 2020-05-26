@@ -32,6 +32,7 @@ class MusicPlayer:
     scrol_y.pack(side=RIGHT,fill=Y)
     scrol_y.config(command=self.playlist.yview)
     self.playlist.pack(fill=BOTH)
+    #place your path of music folder here
     os.chdir("D:\python music player\songs")
     songtracks = os.listdir()
     for track in songtracks:
